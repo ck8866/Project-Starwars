@@ -1,2 +1,0 @@
-government "Black Hole"
-		"player reputation" -9999

@@ -7,7 +7,7 @@ Sources:
 
 http://www.swgalaxymap.com/
 
-starwars.fandom.com/wiki
+https://starwars.fandom.com/wiki
 
 https://starwarsblog.starwars.com/wp-content/uploads/sites/6/2015/06/Starwars.com_Atlas_appendix_June_15.pdf
 

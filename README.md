@@ -8,3 +8,8 @@ http://www.swgalaxymap.com/
 starwars.fandom.com/wiki
 
 https://starwarsblog.starwars.com/wp-content/uploads/sites/6/2015/06/Starwars.com_Atlas_appendix_June_15.pdf
+
+https://wrvh.home.xs4all.nl/galaxymap/index.html
+
+http://starwarsatlas.uw.hu/thelist.htm *there are no maps here, the orignal images seem to have been removed*
+
